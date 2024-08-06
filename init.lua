@@ -168,7 +168,7 @@ vim.o.confirm = true
 
 -- Tab settings
 vim.bo.expandtab = true
-vimm.bo.tabstop = 4
+vim.bo.tabstop = 4
 vim.bo.shiftwidth = 4
 
 -- [[ Basic Keymaps ]]
